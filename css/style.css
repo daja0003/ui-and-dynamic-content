@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Arial","Helvetica", "Helvetica Neue", sans-serif;
+    font-size: 1rem;
+    margin: auto;
+    color: #FDF0D5;
+    line-height: 1.5;
+    max-width: 45rem;
+}
+.container {
+    background-color: #440458;
+    text-align: center;
+}
+.masthead img {
+    width:50%;
+    margin: auto;
+}
+.masthead p {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.box input {
+    width: 60%;
+    height: 30px;
+    margin: 1% auto;
+}
+input [type="text"] {
+    font-family: "Arial","Helvetica", "Helvetica Neue", sans-serif;
+    font-size: 1rem;
+    border:1px solid #ddd;
+    padding: 0.5rem;
+}
+button {
+    width: 60%;
+    height: 30px;
+    margin: 1% auto;
+    font-family: "Arial","Helvetica", "Helvetica Neue", sans-serif;
+    font-size: 1rem;
+    font-weight: bolder;
+    color: #440458;
+    background-color: #FDF0D5;
+}
+ul {
+    text-align: left;
+    padding-left: 50%;
+}
+footer {
+    margin-top: 4%;
+}
+.face i {
+    font-size: 3rem;
+    color: #FDF0D5;
+    margin-right: 3%;
+}
+.tube i {
+    font-size: 3.5rem;
+    color: #FDF0D5;
+    margin-right: 3%;
+}
+.linked {
+    font-size: 3rem;
+    color: #FDF0D5;
+    margin-right: 3%;
+}
